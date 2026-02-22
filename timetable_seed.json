@@ -5,8 +5,8 @@
     "day": "Monday",
     "start": "10:00",
     "end": "11:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Saqib Ali CRM",
+    "subject": "CRM",
+    "teacher": "Dr. Saqib Ali",
     "room": "B5"
   },
   {
@@ -55,8 +55,8 @@
     "day": "Thursday",
     "start": "10:00",
     "end": "11:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Khurram Abbas Chinese",
+    "subject": "Chinese",
+    "teacher": "Dr. Khurram Abbas",
     "room": "B9"
   },
   {
@@ -125,8 +125,8 @@
     "day": "Wednesday",
     "start": "11:00",
     "end": "12:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Khurram Abbas Chinese",
+    "subject": "Chinese",
+    "teacher": "Dr. Khurram Abbas",
     "room": "W3"
   },
   {
@@ -495,8 +495,8 @@
     "day": "Monday",
     "start": "10:00",
     "end": "11:00",
-    "subject": "Unknown",
-    "teacher": "Mehwish Liaqat L. Stylstcs",
+    "subject": "L. Stylstcs",
+    "teacher": "Mehwish Liaqat",
     "room": "B8"
   },
   {
@@ -505,8 +505,8 @@
     "day": "Monday",
     "start": "9:00",
     "end": "10:00",
-    "subject": "Unknown",
-    "teacher": "M.Badar Iqbal M. Drama",
+    "subject": "M. Drama",
+    "teacher": "M.Badar Iqbal",
     "room": "B5"
   },
   {
@@ -515,8 +515,8 @@
     "day": "Tuesday",
     "start": "11:00",
     "end": "12:00",
-    "subject": "Unknown",
-    "teacher": "Mehwish Liaqat L. Stylstcs",
+    "subject": "L. Stylstcs",
+    "teacher": "Mehwish Liaqat",
     "room": "B8"
   },
   {
@@ -545,8 +545,8 @@
     "day": "Wednesday",
     "start": "1:00",
     "end": "2:00",
-    "subject": "Unknown",
-    "teacher": "M.Badar Iqbal M. Drama",
+    "subject": "M. Drama",
+    "teacher": "M.Badar Iqbal",
     "room": "B5"
   },
   {
@@ -725,8 +725,8 @@
     "day": "Monday",
     "start": "10:00",
     "end": "11:00",
-    "subject": "Unknown",
-    "teacher": "Saiqa Hafeez Power Plants",
+    "subject": "Power Plants",
+    "teacher": "Saiqa Hafeez",
     "room": "W1"
   },
   {
@@ -765,8 +765,8 @@
     "day": "Tuesday",
     "start": "8:00",
     "end": "9:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Ali Raza IC Engines",
+    "subject": "IC Engines",
+    "teacher": "Dr. Ali Raza",
     "room": "A1.1"
   },
   {
@@ -785,8 +785,8 @@
     "day": "Wednesday",
     "start": "11:00",
     "end": "12:00",
-    "subject": "Unknown",
-    "teacher": "Saiqa Hafeez Power Plants",
+    "subject": "Power Plants",
+    "teacher": "Saiqa Hafeez",
     "room": "A3"
   },
   {
@@ -795,8 +795,8 @@
     "day": "Wednesday",
     "start": "9:00",
     "end": "10:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Ali Raza IC Engines",
+    "subject": "IC Engines",
+    "teacher": "Dr. Ali Raza",
     "room": "A1.2"
   },
   {
@@ -855,8 +855,8 @@
     "day": "Monday",
     "start": "8:00",
     "end": "9:00",
-    "subject": "Unknown",
-    "teacher": "Syed Ali Ashiq Kirmani Corporate Governance",
+    "subject": "Corporate Governance",
+    "teacher": "Syed Ali Ashiq Kirmani",
     "room": "B11"
   },
   {
@@ -925,8 +925,8 @@
     "day": "Tuesday",
     "start": "8:00",
     "end": "9:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Saqib Ali GBM",
+    "subject": "GBM",
+    "teacher": "Dr. Saqib Ali",
     "room": "B6"
   },
   {
@@ -935,8 +935,8 @@
     "day": "Tuesday",
     "start": "9:00",
     "end": "10:00",
-    "subject": "Unknown",
-    "teacher": "Syed Ali Ashiq Kirmani Corporate Governance",
+    "subject": "Corporate Governance",
+    "teacher": "Syed Ali Ashiq Kirmani",
     "room": "B9"
   },
   {
@@ -955,8 +955,8 @@
     "day": "Wednesday",
     "start": "1:00",
     "end": "2:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Saqib Ali GBM",
+    "subject": "GBM",
+    "teacher": "Dr. Saqib Ali",
     "room": "B7"
   },
   {
@@ -975,8 +975,8 @@
     "day": "Friday",
     "start": "10:00",
     "end": "11:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Qudsia Yousafi Proteomics",
+    "subject": "Proteomics",
+    "teacher": "Dr. Qudsia Yousafi",
     "room": "C1.7"
   },
   {
@@ -1015,8 +1015,8 @@
     "day": "Monday",
     "start": "9:00",
     "end": "11:00",
-    "subject": "Unknown",
-    "teacher": "MS Mehwish Enzymology",
+    "subject": "Enzymology",
+    "teacher": "MS Mehwish",
     "room": "Bio Lab"
   },
   {
@@ -1025,8 +1025,8 @@
     "day": "Thursday",
     "start": "10:00",
     "end": "11:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Qudsia Yousafi Proteomics",
+    "subject": "Proteomics",
+    "teacher": "Dr. Qudsia Yousafi",
     "room": "C1.6"
   },
   {
@@ -1055,8 +1055,8 @@
     "day": "Thursday",
     "start": "8:00",
     "end": "10:00",
-    "subject": "Unknown",
-    "teacher": "MS Mehwish Cell Biology",
+    "subject": "Cell Biology",
+    "teacher": "MS Mehwish",
     "room": "FP Lab"
   },
   {
@@ -1065,8 +1065,8 @@
     "day": "Tuesday",
     "start": "11:00",
     "end": "12:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Hasan Riaz Cell Biology",
+    "subject": "Cell Biology",
+    "teacher": "Dr. Hasan Riaz",
     "room": "C1.5"
   },
   {
@@ -1095,8 +1095,8 @@
     "day": "Wednesday",
     "start": "10:00",
     "end": "11:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Hasan Riaz Cell Biology",
+    "subject": "Cell Biology",
+    "teacher": "Dr. Hasan Riaz",
     "room": "C1.7"
   },
   {
@@ -2145,8 +2145,8 @@
     "day": "Monday",
     "start": "11:00",
     "end": "12:00",
-    "subject": "Unknown",
-    "teacher": "Saba Hanif Trnslatn Stdes",
+    "subject": "Trnslatn Stdes",
+    "teacher": "Saba Hanif",
     "room": "B8"
   },
   {
@@ -2165,8 +2165,8 @@
     "day": "Thursday",
     "start": "11:00",
     "end": "12:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Asif Ikram CALL",
+    "subject": "CALL",
+    "teacher": "Dr. Asif Ikram",
     "room": "B13"
   },
   {
@@ -2175,8 +2175,8 @@
     "day": "Thursday",
     "start": "8:00",
     "end": "9:00",
-    "subject": "Unknown",
-    "teacher": "Zia Hassan PeaceStdes",
+    "subject": "PeaceStdes",
+    "teacher": "Zia Hassan",
     "room": "B9"
   },
   {
@@ -2185,8 +2185,8 @@
     "day": "Thursday",
     "start": "9:00",
     "end": "10:00",
-    "subject": "Unknown",
-    "teacher": "Saba Hanif Trnslatn Stdes",
+    "subject": "Trnslatn Stdes",
+    "teacher": "Saba Hanif",
     "room": "B4"
   },
   {
@@ -2195,8 +2195,8 @@
     "day": "Tuesday",
     "start": "10:00",
     "end": "11:00",
-    "subject": "Unknown",
-    "teacher": "Alia Ikram M. Poetry",
+    "subject": "M. Poetry",
+    "teacher": "Alia Ikram",
     "room": "B5"
   },
   {
@@ -2225,8 +2225,8 @@
     "day": "Wednesday",
     "start": "10:00",
     "end": "11:00",
-    "subject": "Unknown",
-    "teacher": "Zia Hassan PeaceStdes",
+    "subject": "PeaceStdes",
+    "teacher": "Zia Hassan",
     "room": "B8"
   },
   {
@@ -2235,8 +2235,8 @@
     "day": "Wednesday",
     "start": "11:00",
     "end": "12:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Asif Ikram CALL",
+    "subject": "CALL",
+    "teacher": "Dr. Asif Ikram",
     "room": "B5"
   },
   {
@@ -2245,8 +2245,8 @@
     "day": "Wednesday",
     "start": "8:00",
     "end": "9:00",
-    "subject": "Unknown",
-    "teacher": "Alia Ikram M. Poetry",
+    "subject": "M. Poetry",
+    "teacher": "Alia Ikram",
     "room": "B8"
   },
   {
@@ -2985,8 +2985,8 @@
     "day": "Friday",
     "start": "8:00",
     "end": "10:00",
-    "subject": "Unknown",
-    "teacher": "MS Mehwish Nutritional Counselling",
+    "subject": "Nutritional Counselling",
+    "teacher": "MS Mehwish",
     "room": "FA Lab"
   },
   {
@@ -3115,8 +3115,8 @@
     "day": "Monday",
     "start": "10:00",
     "end": "11:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Minhas Akbar RTT",
+    "subject": "RTT",
+    "teacher": "Dr. Minhas Akbar",
     "room": "B11"
   },
   {
@@ -3135,8 +3135,8 @@
     "day": "Thursday",
     "start": "1:00",
     "end": "2:00",
-    "subject": "Unknown",
-    "teacher": "Mr. M. Shoaib Bajwa HRM",
+    "subject": "HRM",
+    "teacher": "Mr. M. Shoaib Bajwa",
     "room": "B7"
   },
   {
@@ -3145,8 +3145,8 @@
     "day": "Thursday",
     "start": "8:00",
     "end": "9:00",
-    "subject": "Unknown",
-    "teacher": "Mr. M. Shoaib Sajjad Financial Mgmt.",
+    "subject": "Financial Mgmt.",
+    "teacher": "Mr. M. Shoaib Sajjad",
     "room": "B13"
   },
   {
@@ -3155,8 +3155,8 @@
     "day": "Tuesday",
     "start": "1:00",
     "end": "2:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Minhas Akbar RTT",
+    "subject": "RTT",
+    "teacher": "Dr. Minhas Akbar",
     "room": "B11"
   },
   {
@@ -3165,8 +3165,8 @@
     "day": "Tuesday",
     "start": "9:00",
     "end": "10:00",
-    "subject": "Unknown",
-    "teacher": "Mr. M. Shoaib Bajwa HRM",
+    "subject": "HRM",
+    "teacher": "Mr. M. Shoaib Bajwa",
     "room": "B4"
   },
   {
@@ -3185,8 +3185,8 @@
     "day": "Wednesday",
     "start": "8:00",
     "end": "9:00",
-    "subject": "Unknown",
-    "teacher": "Mr. M. Shoaib Sajjad Financial Mgmt.",
+    "subject": "Financial Mgmt.",
+    "teacher": "Mr. M. Shoaib Sajjad",
     "room": "B5"
   },
   {
@@ -4105,8 +4105,8 @@
     "day": "Thursday",
     "start": "1:00",
     "end": "2:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Asif Ikram PsychoLing",
+    "subject": "PsychoLing",
+    "teacher": "Dr. Asif Ikram",
     "room": "B4"
   },
   {
@@ -4155,8 +4155,8 @@
     "day": "Wednesday",
     "start": "1:00",
     "end": "2:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Asif Ikram PsychoLing",
+    "subject": "PsychoLing",
+    "teacher": "Dr. Asif Ikram",
     "room": "B4"
   },
   {
@@ -4625,8 +4625,8 @@
     "day": "Friday",
     "start": "11:00",
     "end": "12:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Qudsia Yousafi General Physiology",
+    "subject": "General Physiology",
+    "teacher": "Dr. Qudsia Yousafi",
     "room": "C1.6"
   },
   {
@@ -4655,8 +4655,8 @@
     "day": "Thursday",
     "start": "10:00",
     "end": "11:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Hasan Riaz Metabolism",
+    "subject": "Metabolism",
+    "teacher": "Dr. Hasan Riaz",
     "room": "C3"
   },
   {
@@ -4685,8 +4685,8 @@
     "day": "Thursday",
     "start": "8:00",
     "end": "9:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Qudsia Yousafi General Physiology",
+    "subject": "General Physiology",
+    "teacher": "Dr. Qudsia Yousafi",
     "room": "C2"
   },
   {
@@ -4745,8 +4745,8 @@
     "day": "Wednesday",
     "start": "11:00",
     "end": "12:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Hasan Riaz Metabolism",
+    "subject": "Metabolism",
+    "teacher": "Dr. Hasan Riaz",
     "room": "C3"
   },
   {
@@ -4935,8 +4935,8 @@
     "day": "Monday",
     "start": "11:00",
     "end": "12:00",
-    "subject": "Unknown",
-    "teacher": "Mr. Bilal Lodhi Financial Acc.",
+    "subject": "Financial Acc.",
+    "teacher": "Mr. Bilal Lodhi",
     "room": "B4"
   },
   {
@@ -4945,8 +4945,8 @@
     "day": "Monday",
     "start": "1:00",
     "end": "2:00",
-    "subject": "Unknown",
-    "teacher": "Mariam Azam RWS",
+    "subject": "RWS",
+    "teacher": "Mariam Azam",
     "room": "B3"
   },
   {
@@ -4995,8 +4995,8 @@
     "day": "Tuesday",
     "start": "10:00",
     "end": "11:00",
-    "subject": "Unknown",
-    "teacher": "Mr. Bilal Lodhi Financial Acc.",
+    "subject": "Financial Acc.",
+    "teacher": "Mr. Bilal Lodhi",
     "room": "B10"
   },
   {
@@ -5035,8 +5035,8 @@
     "day": "Wednesday",
     "start": "10:00",
     "end": "11:00",
-    "subject": "Unknown",
-    "teacher": "Mariam Azam RWS",
+    "subject": "RWS",
+    "teacher": "Mariam Azam",
     "room": "B9"
   },
   {
@@ -6105,8 +6105,8 @@
     "day": "Monday",
     "start": "9:00",
     "end": "10:00",
-    "subject": "Unknown",
-    "teacher": "Mariam Azam RWS",
+    "subject": "RWS",
+    "teacher": "Mariam Azam",
     "room": "B4"
   },
   {
@@ -6125,8 +6125,8 @@
     "day": "Thursday",
     "start": "11:00",
     "end": "12:00",
-    "subject": "Unknown",
-    "teacher": "Mariam Azam RWS",
+    "subject": "RWS",
+    "teacher": "Mariam Azam",
     "room": "B6"
   },
   {
@@ -6145,8 +6145,8 @@
     "day": "Thursday",
     "start": "9:00",
     "end": "10:00",
-    "subject": "Unknown",
-    "teacher": "Mr. M. Haris-ul-Mahasbi Exploring Q.Skills",
+    "subject": "Exploring Q.Skills",
+    "teacher": "Mr. M. Haris-ul-Mahasbi",
     "room": "B8"
   },
   {
@@ -6165,8 +6165,8 @@
     "day": "Tuesday",
     "start": "1:00",
     "end": "2:00",
-    "subject": "Unknown",
-    "teacher": "Mr. M. Haris-ul-Mahasbi Exploring Q.Skills",
+    "subject": "Exploring Q.Skills",
+    "teacher": "Mr. M. Haris-ul-Mahasbi",
     "room": "B6"
   },
   {
@@ -6175,8 +6175,8 @@
     "day": "Tuesday",
     "start": "9:00",
     "end": "10:00",
-    "subject": "Unknown",
-    "teacher": "Zia Hassan C.Affairs",
+    "subject": "C.Affairs",
+    "teacher": "Zia Hassan",
     "room": "B3"
   },
   {
@@ -6185,8 +6185,8 @@
     "day": "Wednesday",
     "start": "8:00",
     "end": "9:00",
-    "subject": "Unknown",
-    "teacher": "Zia Hassan C.Affairs",
+    "subject": "C.Affairs",
+    "teacher": "Zia Hassan",
     "room": "B4"
   },
   {
@@ -6725,8 +6725,8 @@
     "day": "Thursday",
     "start": "9:00",
     "end": "10:00",
-    "subject": "Biology",
-    "teacher": "Dr. Farrukh Jamil Introductory Molecular",
+    "subject": "Introductory Molecular Biology",
+    "teacher": "Dr. Farrukh Jamil",
     "room": "C1.7"
   },
   {
@@ -6735,8 +6735,8 @@
     "day": "Tuesday",
     "start": "10:00",
     "end": "11:00",
-    "subject": "Biology",
-    "teacher": "Dr. Farrukh Jamil Introductory Molecular",
+    "subject": "Introductory Molecular Biology",
+    "teacher": "Dr. Farrukh Jamil",
     "room": "C1.7"
   },
   {
@@ -7160,6 +7160,86 @@
     "room": "C2"
   },
   {
+    "department": "RBS",
+    "batch": "FA25-RBS-01",
+    "day": "Monday",
+    "start": "11:00",
+    "end": "12:00",
+    "subject": "Advances in Molecular Genetics",
+    "teacher": "Dr. Sumaira Kanwal",
+    "room": "C2"
+  },
+  {
+    "department": "RBS",
+    "batch": "FA25-RBS-01",
+    "day": "Monday",
+    "start": "1:00",
+    "end": "2:00",
+    "subject": "Advances in Cell Biology",
+    "teacher": "Dr. Hasan Riaz",
+    "room": "C1.5"
+  },
+  {
+    "department": "RBS",
+    "batch": "FA25-RBS-01",
+    "day": "Thursday",
+    "start": "11:00",
+    "end": "12:00",
+    "subject": "Advances in Cell Biology",
+    "teacher": "Dr. Hasan Riaz",
+    "room": "C1.7"
+  },
+  {
+    "department": "RBS",
+    "batch": "FA25-RBS-01",
+    "day": "Thursday",
+    "start": "1:00",
+    "end": "2:00",
+    "subject": "Advances in Biochemistry",
+    "teacher": "Dr. Farrukh Jamil",
+    "room": "A1.2"
+  },
+  {
+    "department": "RBS",
+    "batch": "FA25-RBS-01",
+    "day": "Tuesday",
+    "start": "11:00",
+    "end": "12:00",
+    "subject": "Report Writing and Seminar",
+    "teacher": "Dr. Asim Mehmood",
+    "room": "C3"
+  },
+  {
+    "department": "RBS",
+    "batch": "FA25-RBS-01",
+    "day": "Tuesday",
+    "start": "1:00",
+    "end": "2:00",
+    "subject": "Advances in Molecular Genetics",
+    "teacher": "Dr. Sumaira Kanwal",
+    "room": "C2"
+  },
+  {
+    "department": "RBS",
+    "batch": "FA25-RBS-01",
+    "day": "Wednesday",
+    "start": "11:00",
+    "end": "12:00",
+    "subject": "Advances in Biochemistry",
+    "teacher": "Dr. Farrukh Jamil",
+    "room": "C1.7"
+  },
+  {
+    "department": "RBS",
+    "batch": "FA25-RBS-01",
+    "day": "Wednesday",
+    "start": "1:00",
+    "end": "2:00",
+    "subject": "Report Writing and Seminar",
+    "teacher": "Dr. Asim Mehmood",
+    "room": "C2"
+  },
+  {
     "department": "RCS",
     "batch": "FA25-RCS-2-A",
     "day": "Friday",
@@ -7365,8 +7445,8 @@
     "day": "Monday",
     "start": "10:00",
     "end": "11:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Saqib Ali CRM",
+    "subject": "CRM",
+    "teacher": "Dr. Saqib Ali",
     "room": "B5"
   },
   {
@@ -7395,8 +7475,8 @@
     "day": "Monday",
     "start": "8:00",
     "end": "9:00",
-    "subject": "Unknown",
-    "teacher": "Syed Ali Ashiq Kirmani Corporate Governance",
+    "subject": "Corporate Governance",
+    "teacher": "Syed Ali Ashiq Kirmani",
     "room": "B11"
   },
   {
@@ -7415,8 +7495,8 @@
     "day": "Thursday",
     "start": "10:00",
     "end": "11:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Khurram Abbas Chinese",
+    "subject": "Chinese",
+    "teacher": "Dr. Khurram Abbas",
     "room": "B9"
   },
   {
@@ -7475,8 +7555,8 @@
     "day": "Tuesday",
     "start": "9:00",
     "end": "10:00",
-    "subject": "Unknown",
-    "teacher": "Syed Ali Ashiq Kirmani Corporate Governance",
+    "subject": "Corporate Governance",
+    "teacher": "Syed Ali Ashiq Kirmani",
     "room": "B9"
   },
   {
@@ -7495,8 +7575,8 @@
     "day": "Wednesday",
     "start": "11:00",
     "end": "12:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Khurram Abbas Chinese",
+    "subject": "Chinese",
+    "teacher": "Dr. Khurram Abbas",
     "room": "W3"
   },
   {
@@ -7515,8 +7595,8 @@
     "day": "Friday",
     "start": "10:00",
     "end": "11:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Qudsia Yousafi Proteomics",
+    "subject": "Proteomics",
+    "teacher": "Dr. Qudsia Yousafi",
     "room": "C1.7"
   },
   {
@@ -7545,8 +7625,8 @@
     "day": "Thursday",
     "start": "10:00",
     "end": "11:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Qudsia Yousafi Proteomics",
+    "subject": "Proteomics",
+    "teacher": "Dr. Qudsia Yousafi",
     "room": "C1.6"
   },
   {
@@ -8025,8 +8105,8 @@
     "day": "Monday",
     "start": "10:00",
     "end": "11:00",
-    "subject": "Unknown",
-    "teacher": "Mehwish Liaqat L. Stylstcs",
+    "subject": "L. Stylstcs",
+    "teacher": "Mehwish Liaqat",
     "room": "B8"
   },
   {
@@ -8035,8 +8115,8 @@
     "day": "Monday",
     "start": "9:00",
     "end": "10:00",
-    "subject": "Unknown",
-    "teacher": "M.Badar Iqbal M. Drama",
+    "subject": "M. Drama",
+    "teacher": "M.Badar Iqbal",
     "room": "B5"
   },
   {
@@ -8055,8 +8135,8 @@
     "day": "Thursday",
     "start": "11:00",
     "end": "12:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Asif Ikram CALL",
+    "subject": "CALL",
+    "teacher": "Dr. Asif Ikram",
     "room": "B13"
   },
   {
@@ -8065,8 +8145,8 @@
     "day": "Tuesday",
     "start": "11:00",
     "end": "12:00",
-    "subject": "Unknown",
-    "teacher": "Mehwish Liaqat L. Stylstcs",
+    "subject": "L. Stylstcs",
+    "teacher": "Mehwish Liaqat",
     "room": "B8"
   },
   {
@@ -8095,8 +8175,8 @@
     "day": "Wednesday",
     "start": "11:00",
     "end": "12:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Asif Ikram CALL",
+    "subject": "CALL",
+    "teacher": "Dr. Asif Ikram",
     "room": "B5"
   },
   {
@@ -8105,8 +8185,8 @@
     "day": "Wednesday",
     "start": "1:00",
     "end": "2:00",
-    "subject": "Unknown",
-    "teacher": "M.Badar Iqbal M. Drama",
+    "subject": "M. Drama",
+    "teacher": "M.Badar Iqbal",
     "room": "B5"
   },
   {
@@ -8335,8 +8415,8 @@
     "day": "Thursday",
     "start": "11:00",
     "end": "12:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Muhammad Ibrahim Food Microbiology",
+    "subject": "Food Microbiology",
+    "teacher": "Dr. Muhammad Ibrahim",
     "room": "C2.2"
   },
   {
@@ -8365,8 +8445,8 @@
     "day": "Tuesday",
     "start": "11:00",
     "end": "12:00",
-    "subject": "Unknown",
-    "teacher": "MS Sunaina Food Microbiology",
+    "subject": "Food Microbiology",
+    "teacher": "MS Sunaina",
     "room": "Bio Lab"
   },
   {
@@ -8375,8 +8455,8 @@
     "day": "Tuesday",
     "start": "1:00",
     "end": "2:00",
-    "subject": "Unknown",
-    "teacher": "MS Sunaina Food Microbiology",
+    "subject": "Food Microbiology",
+    "teacher": "MS Sunaina",
     "room": "Bio Lab"
   },
   {
@@ -8395,8 +8475,8 @@
     "day": "Tuesday",
     "start": "9:00",
     "end": "10:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Muhammad Ibrahim Food Microbiology",
+    "subject": "Food Microbiology",
+    "teacher": "Dr. Muhammad Ibrahim",
     "room": "C2.3"
   },
   {
@@ -8465,8 +8545,8 @@
     "day": "Monday",
     "start": "10:00",
     "end": "11:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Minhas Akbar RTT",
+    "subject": "RTT",
+    "teacher": "Dr. Minhas Akbar",
     "room": "B11"
   },
   {
@@ -8555,8 +8635,8 @@
     "day": "Tuesday",
     "start": "1:00",
     "end": "2:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Minhas Akbar RTT",
+    "subject": "RTT",
+    "teacher": "Dr. Minhas Akbar",
     "room": "B11"
   },
   {
@@ -9075,8 +9155,8 @@
     "day": "Thursday",
     "start": "1:00",
     "end": "2:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Asif Ikram PsychoLing",
+    "subject": "PsychoLing",
+    "teacher": "Dr. Asif Ikram",
     "room": "B4"
   },
   {
@@ -9085,8 +9165,8 @@
     "day": "Thursday",
     "start": "8:00",
     "end": "9:00",
-    "subject": "Unknown",
-    "teacher": "Zia Hassan PeaceStdes",
+    "subject": "PeaceStdes",
+    "teacher": "Zia Hassan",
     "room": "B9"
   },
   {
@@ -9095,8 +9175,8 @@
     "day": "Tuesday",
     "start": "10:00",
     "end": "11:00",
-    "subject": "Unknown",
-    "teacher": "Alia Ikram M. Poetry",
+    "subject": "M. Poetry",
+    "teacher": "Alia Ikram",
     "room": "B5"
   },
   {
@@ -9115,8 +9195,8 @@
     "day": "Wednesday",
     "start": "10:00",
     "end": "11:00",
-    "subject": "Unknown",
-    "teacher": "Zia Hassan PeaceStdes",
+    "subject": "PeaceStdes",
+    "teacher": "Zia Hassan",
     "room": "B8"
   },
   {
@@ -9125,8 +9205,8 @@
     "day": "Wednesday",
     "start": "1:00",
     "end": "2:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Asif Ikram PsychoLing",
+    "subject": "PsychoLing",
+    "teacher": "Dr. Asif Ikram",
     "room": "B4"
   },
   {
@@ -9135,8 +9215,8 @@
     "day": "Wednesday",
     "start": "8:00",
     "end": "9:00",
-    "subject": "Unknown",
-    "teacher": "Alia Ikram M. Poetry",
+    "subject": "M. Poetry",
+    "teacher": "Alia Ikram",
     "room": "B8"
   },
   {
@@ -9795,8 +9875,8 @@
     "day": "Monday",
     "start": "10:00",
     "end": "11:00",
-    "subject": "Unknown",
-    "teacher": "Syed Ali Ashiq Kirmani OB",
+    "subject": "OB",
+    "teacher": "Syed Ali Ashiq Kirmani",
     "room": "B4"
   },
   {
@@ -9835,8 +9915,8 @@
     "day": "Thursday",
     "start": "8:00",
     "end": "9:00",
-    "subject": "Unknown",
-    "teacher": "Syed Ali Ashiq Kirmani OB",
+    "subject": "OB",
+    "teacher": "Syed Ali Ashiq Kirmani",
     "room": "B6"
   },
   {
@@ -10345,8 +10425,8 @@
     "day": "Monday",
     "start": "9:00",
     "end": "10:00",
-    "subject": "Unknown",
-    "teacher": "Mariam Azam RWS",
+    "subject": "RWS",
+    "teacher": "Mariam Azam",
     "room": "B4"
   },
   {
@@ -10355,8 +10435,8 @@
     "day": "Thursday",
     "start": "11:00",
     "end": "12:00",
-    "subject": "Unknown",
-    "teacher": "Mariam Azam RWS",
+    "subject": "RWS",
+    "teacher": "Mariam Azam",
     "room": "B6"
   },
   {
@@ -10385,8 +10465,8 @@
     "day": "Tuesday",
     "start": "9:00",
     "end": "10:00",
-    "subject": "Unknown",
-    "teacher": "Zia Hassan C.Affairs",
+    "subject": "C.Affairs",
+    "teacher": "Zia Hassan",
     "room": "B3"
   },
   {
@@ -10395,8 +10475,8 @@
     "day": "Wednesday",
     "start": "8:00",
     "end": "9:00",
-    "subject": "Unknown",
-    "teacher": "Zia Hassan C.Affairs",
+    "subject": "C.Affairs",
+    "teacher": "Zia Hassan",
     "room": "B4"
   },
   {
@@ -10725,8 +10805,8 @@
     "day": "Thursday",
     "start": "10:00",
     "end": "11:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Hasan Riaz Metabolism",
+    "subject": "Metabolism",
+    "teacher": "Dr. Hasan Riaz",
     "room": "C3"
   },
   {
@@ -10785,8 +10865,8 @@
     "day": "Wednesday",
     "start": "11:00",
     "end": "12:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Hasan Riaz Metabolism",
+    "subject": "Metabolism",
+    "teacher": "Dr. Hasan Riaz",
     "room": "C3"
   },
   {
@@ -11035,8 +11115,8 @@
     "day": "Monday",
     "start": "9:00",
     "end": "10:00",
-    "subject": "Unknown",
-    "teacher": "Mehwish Liaqat Fnctnl Eng.",
+    "subject": "Fnctnl Eng.",
+    "teacher": "Mehwish Liaqat",
     "room": "B13"
   },
   {
@@ -11075,8 +11155,8 @@
     "day": "Tuesday",
     "start": "10:00",
     "end": "11:00",
-    "subject": "Unknown",
-    "teacher": "Mehwish Liaqat Fnctnl Eng.",
+    "subject": "Fnctnl Eng.",
+    "teacher": "Mehwish Liaqat",
     "room": "B8"
   },
   {
@@ -11385,8 +11465,8 @@
     "day": "Monday",
     "start": "9:00",
     "end": "10:00",
-    "subject": "Unknown",
-    "teacher": "Mehwish Liaqat Fnctnl Eng.",
+    "subject": "Fnctnl Eng.",
+    "teacher": "Mehwish Liaqat",
     "room": "B13"
   },
   {
@@ -11425,8 +11505,8 @@
     "day": "Thursday",
     "start": "9:00",
     "end": "10:00",
-    "subject": "Unknown",
-    "teacher": "Mr. M. Haris-ul-Mahasbi Exploring Q.Skills",
+    "subject": "Exploring Q.Skills",
+    "teacher": "Mr. M. Haris-ul-Mahasbi",
     "room": "B8"
   },
   {
@@ -11435,8 +11515,8 @@
     "day": "Tuesday",
     "start": "10:00",
     "end": "11:00",
-    "subject": "Unknown",
-    "teacher": "Mehwish Liaqat Fnctnl Eng.",
+    "subject": "Fnctnl Eng.",
+    "teacher": "Mehwish Liaqat",
     "room": "B8"
   },
   {
@@ -11445,8 +11525,8 @@
     "day": "Tuesday",
     "start": "11:00",
     "end": "12:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Syed Aftab Naqvi AICT",
+    "subject": "AICT",
+    "teacher": "Dr. Syed Aftab Naqvi",
     "room": "B4"
   },
   {
@@ -11455,8 +11535,8 @@
     "day": "Tuesday",
     "start": "1:00",
     "end": "2:00",
-    "subject": "Unknown",
-    "teacher": "Mr. M. Haris-ul-Mahasbi Exploring Q.Skills",
+    "subject": "Exploring Q.Skills",
+    "teacher": "Mr. M. Haris-ul-Mahasbi",
     "room": "B6"
   },
   {
@@ -11465,8 +11545,8 @@
     "day": "Wednesday",
     "start": "11:00",
     "end": "12:00",
-    "subject": "Unknown",
-    "teacher": "Dr. Syed Aftab Naqvi AICT",
+    "subject": "AICT",
+    "teacher": "Dr. Syed Aftab Naqvi",
     "room": "B8"
   },
   {
@@ -11665,8 +11745,8 @@
     "day": "Thursday",
     "start": "9:00",
     "end": "10:00",
-    "subject": "Biology",
-    "teacher": "Dr. Farrukh Jamil Introductory Molecular",
+    "subject": "Introductory Molecular Biology",
+    "teacher": "Dr. Farrukh Jamil",
     "room": "C1.7"
   },
   {
@@ -11675,8 +11755,8 @@
     "day": "Tuesday",
     "start": "10:00",
     "end": "11:00",
-    "subject": "Biology",
-    "teacher": "Dr. Farrukh Jamil Introductory Molecular",
+    "subject": "Introductory Molecular Biology",
+    "teacher": "Dr. Farrukh Jamil",
     "room": "C1.7"
   },
   {
@@ -12040,6 +12120,86 @@
     "room": "C2"
   },
   {
+    "department": "RBS",
+    "batch": "SP26-RBS-01",
+    "day": "Monday",
+    "start": "11:00",
+    "end": "12:00",
+    "subject": "Advances in Molecular Genetics",
+    "teacher": "Dr. Sumaira Kanwal",
+    "room": "C2"
+  },
+  {
+    "department": "RBS",
+    "batch": "SP26-RBS-01",
+    "day": "Monday",
+    "start": "1:00",
+    "end": "2:00",
+    "subject": "Advances in Cell Biology",
+    "teacher": "Dr. Hasan Riaz",
+    "room": "C1.5"
+  },
+  {
+    "department": "RBS",
+    "batch": "SP26-RBS-01",
+    "day": "Thursday",
+    "start": "11:00",
+    "end": "12:00",
+    "subject": "Advances in Cell Biology",
+    "teacher": "Dr. Hasan Riaz",
+    "room": "C1.7"
+  },
+  {
+    "department": "RBS",
+    "batch": "SP26-RBS-01",
+    "day": "Thursday",
+    "start": "1:00",
+    "end": "2:00",
+    "subject": "Advances in Biochemistry",
+    "teacher": "Dr. Farrukh Jamil",
+    "room": "A1.2"
+  },
+  {
+    "department": "RBS",
+    "batch": "SP26-RBS-01",
+    "day": "Tuesday",
+    "start": "11:00",
+    "end": "12:00",
+    "subject": "Report Writing and Seminar",
+    "teacher": "Dr. Asim Mehmood",
+    "room": "C3"
+  },
+  {
+    "department": "RBS",
+    "batch": "SP26-RBS-01",
+    "day": "Tuesday",
+    "start": "1:00",
+    "end": "2:00",
+    "subject": "Advances in Molecular Genetics",
+    "teacher": "Dr. Sumaira Kanwal",
+    "room": "C2"
+  },
+  {
+    "department": "RBS",
+    "batch": "SP26-RBS-01",
+    "day": "Wednesday",
+    "start": "11:00",
+    "end": "12:00",
+    "subject": "Advances in Biochemistry",
+    "teacher": "Dr. Farrukh Jamil",
+    "room": "C1.7"
+  },
+  {
+    "department": "RBS",
+    "batch": "SP26-RBS-01",
+    "day": "Wednesday",
+    "start": "1:00",
+    "end": "2:00",
+    "subject": "Report Writing and Seminar",
+    "teacher": "Dr. Asim Mehmood",
+    "room": "C2"
+  },
+  {
     "department": "RCS",
     "batch": "SP26-RCS-1-A",
     "day": "Friday",
@@ -12192,6 +12352,66 @@
   {
     "department": "RHND",
     "batch": "SP26-RHND",
+    "day": "Wednesday",
+    "start": "1:00",
+    "end": "2:00",
+    "subject": "Research Methods in Human Nutrition",
+    "teacher": "Dr. Shahzad Saleem",
+    "room": "B8"
+  },
+  {
+    "department": "RHND",
+    "batch": "SP26-RHND-01",
+    "day": "Monday",
+    "start": "11:00",
+    "end": "12:00",
+    "subject": "Therapeutic and complementary Nutrition",
+    "teacher": "Dr. Abrar Hussain",
+    "room": "A1.3"
+  },
+  {
+    "department": "RHND",
+    "batch": "SP26-RHND-01",
+    "day": "Thursday",
+    "start": "11:00",
+    "end": "12:00",
+    "subject": "Therapeutic and complementary Nutrition",
+    "teacher": "Dr. Abrar Hussain",
+    "room": "C3"
+  },
+  {
+    "department": "RHND",
+    "batch": "SP26-RHND-01",
+    "day": "Thursday",
+    "start": "1:00",
+    "end": "2:00",
+    "subject": "Applied Dietetics",
+    "teacher": "Dr. Wasim Sajid",
+    "room": "C2.4"
+  },
+  {
+    "department": "RHND",
+    "batch": "SP26-RHND-01",
+    "day": "Tuesday",
+    "start": "11:00",
+    "end": "12:00",
+    "subject": "Research Methods in Human Nutrition",
+    "teacher": "Dr. Shahzad Saleem",
+    "room": "C1.7"
+  },
+  {
+    "department": "RHND",
+    "batch": "SP26-RHND-01",
+    "day": "Wednesday",
+    "start": "11:00",
+    "end": "12:00",
+    "subject": "Applied Dietetics",
+    "teacher": "Dr. Wasim Sajid",
+    "room": "C2.3"
+  },
+  {
+    "department": "RHND",
+    "batch": "SP26-RHND-01",
     "day": "Wednesday",
     "start": "1:00",
     "end": "2:00",
