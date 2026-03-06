@@ -213,11 +213,11 @@
     "department": "BCS",
     "batch": "FA22-BCS-8-A",
     "day": "Wednesday",
-    "start": "9:00",
-    "end": "10:00",
+    "start": "8:00",
+    "end": "9:00",
     "subject": "Introduction to Psychology",
     "teacher": "Ms. Sidra Iqbal",
-    "room": "D7"
+    "room": "B3"
   },
   {
     "department": "BCS",
@@ -293,21 +293,21 @@
     "department": "BCS",
     "batch": "FA22-BCS-8-C",
     "day": "Thursday",
-    "start": "11:00",
-    "end": "12:00",
+    "start": "8:00",
+    "end": "9:00",
     "subject": "E-Commerce and Digital Marketing (1 hr)",
     "teacher": "Dr. Rahib Ali",
-    "room": "D1"
+    "room": "A2.1"
   },
   {
     "department": "BCS",
     "batch": "FA22-BCS-8-C",
     "day": "Thursday",
-    "start": "1:00",
-    "end": "2:00",
+    "start": "9:00",
+    "end": "10:00",
     "subject": "Introduction to Psychology",
     "teacher": "Mr. Gohar Liaqat",
-    "room": "D3"
+    "room": "A1.3"
   },
   {
     "department": "BCS",
@@ -383,6 +383,16 @@
     "department": "BCS",
     "batch": "FA22-BCS-8-D",
     "day": "Tuesday",
+    "start": "11:00",
+    "end": "12:00",
+    "subject": "Introduction to Psychology",
+    "teacher": "Mr. Gohar Liaqat",
+    "room": "D7"
+  },
+  {
+    "department": "BCS",
+    "batch": "FA22-BCS-8-D",
+    "day": "Tuesday",
     "start": "1:00",
     "end": "2:00",
     "subject": "E-Commerce and Digital Marketing (1 hr)",
@@ -418,16 +428,6 @@
     "subject": "E-Commerce and Digital Marketing (1 hr)",
     "teacher": "Mr. Manzar Abbas",
     "room": "A3"
-  },
-  {
-    "department": "BCS",
-    "batch": "FA22-BCS-8-D",
-    "day": "Wednesday",
-    "start": "9:00",
-    "end": "10:00",
-    "subject": "Introduction to Psychology",
-    "teacher": "Mr. Gohar Liaqat",
-    "room": "C2.4"
   },
   {
     "department": "BEE",
@@ -607,7 +607,7 @@
     "end": "11:00",
     "subject": "Fundamentals of Marketing",
     "teacher": "Dr. Rahib Ali",
-    "room": "D9"
+    "room": "A3"
   },
   {
     "department": "BSE",
@@ -643,16 +643,6 @@
     "department": "BSE",
     "batch": "FA22-BSE-8-B",
     "day": "Thursday",
-    "start": "11:00",
-    "end": "12:00",
-    "subject": "Introduction to Psychology",
-    "teacher": "Mr. Syed Anwaar Mehdi",
-    "room": "C1.3"
-  },
-  {
-    "department": "BSE",
-    "batch": "FA22-BSE-8-B",
-    "day": "Thursday",
     "start": "1:00",
     "end": "2:00",
     "subject": "Fundamentals of Marketing",
@@ -672,11 +662,21 @@
   {
     "department": "BSE",
     "batch": "FA22-BSE-8-B",
-    "day": "Wednesday",
+    "day": "Tuesday",
+    "start": "11:00",
+    "end": "12:00",
+    "subject": "Design Patterns (1 hr)",
+    "teacher": "Dr. Muhammad Farhan",
+    "room": "C2.3"
+  },
+  {
+    "department": "BSE",
+    "batch": "FA22-BSE-8-B",
+    "day": "Tuesday",
     "start": "1:00",
     "end": "2:00",
-    "subject": "Fundamentals of Marketing",
-    "teacher": "Dr. Rahib Ali",
+    "subject": "Introduction to Psychology",
+    "teacher": "Mr. Syed Anwaar Mehdi",
     "room": "C2.3"
   },
   {
@@ -695,8 +695,8 @@
     "day": "Wednesday",
     "start": "9:00",
     "end": "10:00",
-    "subject": "Design Patterns (1 hr)",
-    "teacher": "Dr. Muhammad Farhan",
+    "subject": "Fundamentals of Marketing",
+    "teacher": "Dr. Rahib Ali",
     "room": "C1.2"
   },
   {
@@ -713,11 +713,11 @@
     "department": "BSE",
     "batch": "FA22-BSE-Repeater",
     "day": "Wednesday",
-    "start": "10:00",
-    "end": "11:00",
+    "start": "1:00",
+    "end": "2:00",
     "subject": "Formal Methods",
     "teacher": "Mr. Ghias ul Din Bulbun",
-    "room": "C2"
+    "room": "C3"
   },
   {
     "department": "BSME",
@@ -1413,11 +1413,11 @@
     "department": "BCS",
     "batch": "FA23-BCS-6-C",
     "day": "Friday",
-    "start": "8:00",
-    "end": "9:00",
+    "start": "1:00",
+    "end": "2:00",
     "subject": "Theory of Automata",
     "teacher": "Mr. Husnain Raza",
-    "room": "B3"
+    "room": "C1"
   },
   {
     "department": "BCS",
@@ -1527,7 +1527,7 @@
     "end": "2:00",
     "subject": "Theory of Automata",
     "teacher": "Mr. Husnain Raza",
-    "room": "W2"
+    "room": "D3"
   },
   {
     "department": "BCS",
@@ -1693,11 +1693,11 @@
     "department": "BCS",
     "batch": "FA23-BCS-6-D",
     "day": "Wednesday",
-    "start": "8:00",
-    "end": "9:00",
+    "start": "9:00",
+    "end": "10:00",
     "subject": "Theory of Automata",
     "teacher": "Mr. Husnain Raza",
-    "room": "A1.1"
+    "room": "D7"
   },
   {
     "department": "BCS",
@@ -2533,11 +2533,11 @@
     "department": "BSE",
     "batch": "FA23-BSE-6-B",
     "day": "Tuesday",
-    "start": "1:00",
-    "end": "2:00",
+    "start": "11:00",
+    "end": "12:00",
     "subject": "Automated Software Testing (1 hr)",
     "teacher": "Ms. Hafza Mehreen",
-    "room": "D1"
+    "room": "D4"
   },
   {
     "department": "BSE",
@@ -3233,16 +3233,6 @@
     "department": "BCS",
     "batch": "FA24-BCS-4-A",
     "day": "Monday",
-    "start": "11:00",
-    "end": "12:00",
-    "subject": "Multivariable Calculus",
-    "teacher": "Dr. Rida",
-    "room": "C5"
-  },
-  {
-    "department": "BCS",
-    "batch": "FA24-BCS-4-A",
-    "day": "Monday",
     "start": "1:00",
     "end": "2:00",
     "subject": "Artificial Intelligence (1 hr)",
@@ -3255,19 +3245,29 @@
     "day": "Monday",
     "start": "9:00",
     "end": "10:00",
-    "subject": "Information Security (1 hr)",
-    "teacher": "Ms. Azka Riaz",
-    "room": "C2.4"
+    "subject": "Multi variable Calculus",
+    "teacher": "Dr. Atif Mehmood",
+    "room": "A3"
   },
   {
     "department": "BCS",
     "batch": "FA24-BCS-4-A",
     "day": "Tuesday",
-    "start": "1:00",
-    "end": "2:00",
-    "subject": "Multivariable Calculus",
-    "teacher": "Dr. Rida",
-    "room": "B3"
+    "start": "11:00",
+    "end": "12:00",
+    "subject": "Information Security (1 hr)",
+    "teacher": "Ms. Azka Riaz",
+    "room": "A1.2"
+  },
+  {
+    "department": "BCS",
+    "batch": "FA24-BCS-4-A",
+    "day": "Tuesday",
+    "start": "8:00",
+    "end": "9:00",
+    "subject": "Multi variable Calculus",
+    "teacher": "Dr. Atif Mehmood",
+    "room": "A1.2"
   },
   {
     "department": "BCS",
@@ -4363,21 +4363,21 @@
     "department": "BSE",
     "batch": "FA24-BSE-4-B",
     "day": "Tuesday",
-    "start": "10:00",
-    "end": "11:00",
-    "subject": "Information Security (1 hr)",
-    "teacher": "Ms. Azka Riaz",
-    "room": "A2.1"
-  },
-  {
-    "department": "BSE",
-    "batch": "FA24-BSE-4-B",
-    "day": "Tuesday",
     "start": "11:00",
     "end": "12:00",
     "subject": "Artificial Intelligence (1 hr)",
     "teacher": "Mr. Fahad Ameen",
     "room": "D6"
+  },
+  {
+    "department": "BSE",
+    "batch": "FA24-BSE-4-B",
+    "day": "Tuesday",
+    "start": "1:00",
+    "end": "2:00",
+    "subject": "Information Security (1 hr)",
+    "teacher": "Ms. Azka Riaz",
+    "room": "W4"
   },
   {
     "department": "BSE",
@@ -5507,7 +5507,7 @@
     "end": "10:00",
     "subject": "Discrete Structures",
     "teacher": "Dr. Aniqa Rehman",
-    "room": "C2.3"
+    "room": "A3"
   },
   {
     "department": "BCS",
@@ -5787,7 +5787,7 @@
     "end": "11:00",
     "subject": "Holy Quran- I (Fehm-e-Quran-I)",
     "teacher": "Dr. Hafiz M Arshad",
-    "room": "D3"
+    "room": "D Block Seminar Room"
   },
   {
     "department": "BCS",
@@ -5877,7 +5877,7 @@
     "end": "10:00",
     "subject": "Holy Quran- I (Fehm-e-Quran-I)",
     "teacher": "Dr. Hafiz M Arshad",
-    "room": "D7"
+    "room": "D Block Seminar Room"
   },
   {
     "department": "BCS",
@@ -6203,11 +6203,11 @@
     "department": "BSE",
     "batch": "FA25-BSE-2-A",
     "day": "Friday",
-    "start": "8:00",
-    "end": "9:00",
-    "subject": "Object Oriented Programming",
+    "start": "10:00",
+    "end": "12:00",
+    "subject": "Object Oriented Programming (Lab)",
     "teacher": "Ms. Abida Kausar",
-    "room": "D6"
+    "room": "CLab-3"
   },
   {
     "department": "BSE",
@@ -6218,6 +6218,16 @@
     "subject": "Understanding of Holy Quran - I (Fehm-e-Quran-I)",
     "teacher": "Dr. Hafiz M Arshad",
     "room": "D Block Seminar Room"
+  },
+  {
+    "department": "BSE",
+    "batch": "FA25-BSE-2-A",
+    "day": "Monday",
+    "start": "10:00",
+    "end": "11:00",
+    "subject": "Object Oriented Programming",
+    "teacher": "Ms. Abida Kausar",
+    "room": "D8"
   },
   {
     "department": "BSE",
@@ -6248,16 +6258,6 @@
     "subject": "Discrete Structures",
     "teacher": "Mr. Bilal Shabir Qaisar",
     "room": "D8"
-  },
-  {
-    "department": "BSE",
-    "batch": "FA25-BSE-2-A",
-    "day": "Monday",
-    "start": "9:00",
-    "end": "11:00",
-    "subject": "Object Oriented Programming (Lab)",
-    "teacher": "Ms. Abida Kausar",
-    "room": "Networking Lab"
   },
   {
     "department": "BSE",
@@ -6972,16 +6972,6 @@
   {
     "department": "PCS",
     "batch": "FA25-PCS-2-A",
-    "day": "Thursday",
-    "start": "1:00",
-    "end": "2:00",
-    "subject": "Advanced Programing Languages (1 hr)",
-    "teacher": "Dr. Javed Ferzund",
-    "room": "C3"
-  },
-  {
-    "department": "PCS",
-    "batch": "FA25-PCS-2-A",
     "day": "Tuesday",
     "start": "10:00",
     "end": "11:00",
@@ -6998,6 +6988,16 @@
     "subject": "Quantum Machine Learning/Machine Learning",
     "teacher": "Dr. Muhammad Farhan",
     "room": "C2.2"
+  },
+  {
+    "department": "PCS",
+    "batch": "FA25-PCS-2-A",
+    "day": "Wednesday",
+    "start": "1:00",
+    "end": "2:00",
+    "subject": "Advanced Programing Languages (1 hr)",
+    "teacher": "Dr. Javed Ferzund",
+    "room": "C4"
   },
   {
     "department": "PMS",
@@ -7247,7 +7247,7 @@
     "end": "11:00",
     "subject": "Holy Quran- I (Fehm-e-Quran-I)",
     "teacher": "Dr. Hafiz M Arshad",
-    "room": "D3"
+    "room": "D Block Seminar Room"
   },
   {
     "department": "RCS",
@@ -7305,9 +7305,9 @@
     "day": "Thursday",
     "start": "1:00",
     "end": "2:00",
-    "subject": "Advanced Programing Languages (1 hr)",
-    "teacher": "Dr. Javed Ferzund",
-    "room": "C3"
+    "subject": "Advanced Operating System",
+    "teacher": "Dr. Zafar Iqbal Roy",
+    "room": "C5"
   },
   {
     "department": "RCS",
@@ -7337,7 +7337,7 @@
     "end": "10:00",
     "subject": "Holy Quran- I (Fehm-e-Quran-I)",
     "teacher": "Dr. Hafiz M Arshad",
-    "room": "D7"
+    "room": "D Block Seminar Room"
   },
   {
     "department": "RCS",
@@ -7355,8 +7355,8 @@
     "day": "Wednesday",
     "start": "1:00",
     "end": "2:00",
-    "subject": "Advanced Operating System",
-    "teacher": "Dr. Zafar Iqbal Roy",
+    "subject": "Advanced Programing Languages (1 hr)",
+    "teacher": "Dr. Javed Ferzund",
     "room": "C4"
   },
   {
@@ -7773,8 +7773,8 @@
     "department": "BCS",
     "batch": "SP23-BCS-7-A",
     "day": "Tuesday",
-    "start": "8:00",
-    "end": "10:00",
+    "start": "9:00",
+    "end": "11:00",
     "subject": "Compiler Construction (Lab)",
     "teacher": "Ms. Azka Riaz",
     "room": "CLab-11"
@@ -8097,7 +8097,7 @@
     "end": "10:00",
     "subject": "Compiler Construction (1 hr)",
     "teacher": "Mr. Syed Nasir Mehdi",
-    "room": "A3"
+    "room": "C2.4"
   },
   {
     "department": "BEN",
@@ -8203,6 +8203,16 @@
     "department": "BSE",
     "batch": "SP23-BSE-7-A",
     "day": "Monday",
+    "start": "10:00",
+    "end": "11:00",
+    "subject": "Software Project Management",
+    "teacher": "Ms. Nusra Rehman",
+    "room": "D3"
+  },
+  {
+    "department": "BSE",
+    "batch": "SP23-BSE-7-A",
+    "day": "Monday",
     "start": "11:00",
     "end": "12:00",
     "subject": "Principles of Operating Systems (Lab)",
@@ -8218,16 +8228,6 @@
     "subject": "Principles of Operating Systems (Lab)",
     "teacher": "Ms. Sameen Fatima",
     "room": "CLab-7"
-  },
-  {
-    "department": "BSE",
-    "batch": "SP23-BSE-7-A",
-    "day": "Monday",
-    "start": "8:00",
-    "end": "9:00",
-    "subject": "Software Project Management",
-    "teacher": "Ms. Nusra Rehman",
-    "room": "D3"
   },
   {
     "department": "BSE",
@@ -8245,19 +8245,9 @@
     "day": "Tuesday",
     "start": "10:00",
     "end": "11:00",
-    "subject": "Introduction to Psychology",
-    "teacher": "Mr. Gohar Liaqat",
-    "room": "D7"
-  },
-  {
-    "department": "BSE",
-    "batch": "SP23-BSE-7-A",
-    "day": "Tuesday",
-    "start": "11:00",
-    "end": "12:00",
     "subject": "Principles of Operating Systems",
     "teacher": "Ms. Sameen Fatima",
-    "room": "B7"
+    "room": "D7"
   },
   {
     "department": "BSE",
@@ -8268,6 +8258,16 @@
     "subject": "Machine Learning",
     "teacher": "Dr. Zeeshan Raza",
     "room": "C1.3"
+  },
+  {
+    "department": "BSE",
+    "batch": "SP23-BSE-7-A",
+    "day": "Tuesday",
+    "start": "8:00",
+    "end": "9:00",
+    "subject": "Introduction to Psychology",
+    "teacher": "Mr. Gohar Liaqat",
+    "room": "D8"
   },
   {
     "department": "BSE",
@@ -8903,6 +8903,16 @@
     "department": "BCS",
     "batch": "SP24-BCS-5-B",
     "day": "Tuesday",
+    "start": "10:00",
+    "end": "11:00",
+    "subject": "Mobile Application Development (1 hr)",
+    "teacher": "Mr. Imran Shahzad",
+    "room": "W3"
+  },
+  {
+    "department": "BCS",
+    "batch": "SP24-BCS-5-B",
+    "day": "Tuesday",
     "start": "11:00",
     "end": "12:00",
     "subject": "Web Technologies (1 hr)",
@@ -8918,16 +8928,6 @@
     "subject": "Computer Organization and Assembly Language (1 hr)",
     "teacher": "Ms. Amna Bashir",
     "room": "D3"
-  },
-  {
-    "department": "BCS",
-    "batch": "SP24-BCS-5-B",
-    "day": "Tuesday",
-    "start": "8:00",
-    "end": "9:00",
-    "subject": "Mobile Application Development (1 hr)",
-    "teacher": "Mr. Imran Shahzad",
-    "room": "B7"
   },
   {
     "department": "BCS",
@@ -9237,7 +9237,7 @@
     "end": "12:00",
     "subject": "Web Technologies (Lab)",
     "teacher": "Ms. Syda Fatima Usman",
-    "room": "CLab-3"
+    "room": "CLab-1"
   },
   {
     "department": "BSE",
@@ -9247,7 +9247,7 @@
     "end": "2:00",
     "subject": "Web Technologies (Lab)",
     "teacher": "Ms. Syda Fatima Usman",
-    "room": "CLab-3"
+    "room": "CLab-1"
   },
   {
     "department": "BSE",
@@ -9313,11 +9313,11 @@
     "department": "BSE",
     "batch": "SP24-BSE-5-A",
     "day": "Tuesday",
-    "start": "11:00",
-    "end": "12:00",
+    "start": "8:00",
+    "end": "9:00",
     "subject": "Mobile Application Development (1 hr)",
     "teacher": "Mr. Muhammad Yousaf",
-    "room": "D2"
+    "room": "C2.5"
   },
   {
     "department": "BSE",
@@ -9358,16 +9358,6 @@
     "subject": "Operating Systems (Lab)",
     "teacher": "Ms. Shaheen Kausar",
     "room": "CLab-11"
-  },
-  {
-    "department": "BSE",
-    "batch": "SP24-BSE-5-B",
-    "day": "Friday",
-    "start": "10:00",
-    "end": "11:00",
-    "subject": "Operating Systems (1 hr)",
-    "teacher": "Ms. Shaheen Kausar",
-    "room": "D2"
   },
   {
     "department": "BSE",
@@ -9417,7 +9407,7 @@
     "end": "11:00",
     "subject": "Software Design and Architecture",
     "teacher": "Ms. Hafza Mehreen",
-    "room": "C2"
+    "room": "B5"
   },
   {
     "department": "BSE",
@@ -9448,6 +9438,16 @@
     "subject": "Web Technologies (1 hr)",
     "teacher": "Ms. Syda Fatima Usman",
     "room": "C2.5"
+  },
+  {
+    "department": "BSE",
+    "batch": "SP24-BSE-5-B",
+    "day": "Tuesday",
+    "start": "10:00",
+    "end": "11:00",
+    "subject": "Operating Systems (1 hr)",
+    "teacher": "Ms. Shaheen Kausar",
+    "room": "B6"
   },
   {
     "department": "BSE",
@@ -10525,8 +10525,8 @@
     "day": "Monday",
     "start": "11:00",
     "end": "12:00",
-    "subject": "Software Engineering",
-    "teacher": "Ms. Abida Kausar",
+    "subject": "Calculus and Analytic Geometry",
+    "teacher": "Dr. Shaheen Akhtar",
     "room": "C2.5"
   },
   {
@@ -10535,8 +10535,8 @@
     "day": "Monday",
     "start": "1:00",
     "end": "2:00",
-    "subject": "Calculus and Analytic Geometry",
-    "teacher": "Dr. Shaheen Akhtar",
+    "subject": "Software Engineering",
+    "teacher": "Ms. Abida Kausar",
     "room": "C2.5"
   },
   {
@@ -11012,7 +11012,7 @@
   {
     "department": "RCS",
     "batch": "SP25-RCS-3-A",
-    "day": "Tuesday",
+    "day": "Thursday",
     "start": "1:00",
     "end": "2:00",
     "subject": "Advanced Operating System",
@@ -11022,12 +11022,12 @@
   {
     "department": "RCS",
     "batch": "SP25-RCS-3-A",
-    "day": "Wednesday",
+    "day": "Tuesday",
     "start": "1:00",
     "end": "2:00",
     "subject": "Advanced Operating System",
     "teacher": "Dr. Zafar Iqbal Roy",
-    "room": "C4"
+    "room": "C5"
   },
   {
     "department": "RMS",
@@ -11217,7 +11217,7 @@
     "end": "12:00",
     "subject": "Applications of Information and Communication Technology (Lab)",
     "teacher": "Mr. Hamza Arif",
-    "room": "CLab-1"
+    "room": "CLab-3"
   },
   {
     "department": "BCS",
@@ -11227,7 +11227,7 @@
     "end": "2:00",
     "subject": "Applications of Information and Communication Technology (Lab)",
     "teacher": "Mr. Hamza Arif",
-    "room": "CLab-1"
+    "room": "CLab-3"
   },
   {
     "department": "BCS",
@@ -11567,7 +11567,7 @@
     "end": "11:00",
     "subject": "Programming Fundamentals",
     "teacher": "Dr. Javed Ferzund",
-    "room": "C2.3"
+    "room": "C5"
   },
   {
     "department": "BSE",
@@ -11647,7 +11647,7 @@
     "end": "2:00",
     "subject": "Applications of Information and Communication Technology (1 hr)",
     "teacher": "Mr. Muhammad Qadeer",
-    "room": "C2.3"
+    "room": "A2.1"
   },
   {
     "department": "BSE",
@@ -11967,7 +11967,7 @@
     "end": "11:00",
     "subject": "Holy Quran- I (Fehm-e-Quran-I)",
     "teacher": "Dr. Hafiz M Arshad",
-    "room": "D3"
+    "room": "D Block Seminar Room"
   },
   {
     "department": "PCS",
@@ -12012,22 +12012,12 @@
   {
     "department": "PCS",
     "batch": "SP26-PCS-1-A",
-    "day": "Thursday",
-    "start": "1:00",
-    "end": "2:00",
-    "subject": "Advanced Programing Languages (1 hr)",
-    "teacher": "Dr. Javed Ferzund",
-    "room": "C3"
-  },
-  {
-    "department": "PCS",
-    "batch": "SP26-PCS-1-A",
     "day": "Tuesday",
     "start": "9:00",
     "end": "10:00",
     "subject": "Holy Quran- I (Fehm-e-Quran-I)",
     "teacher": "Dr. Hafiz M Arshad",
-    "room": "D7"
+    "room": "D Block Seminar Room"
   },
   {
     "department": "PCS",
@@ -12038,6 +12028,16 @@
     "subject": "Quantum Machine Learning/Machine Learning",
     "teacher": "Dr. Muhammad Farhan",
     "room": "C2.2"
+  },
+  {
+    "department": "PCS",
+    "batch": "SP26-PCS-1-A",
+    "day": "Wednesday",
+    "start": "1:00",
+    "end": "2:00",
+    "subject": "Advanced Programing Languages (1 hr)",
+    "teacher": "Dr. Javed Ferzund",
+    "room": "C4"
   },
   {
     "department": "RBS",
@@ -12255,9 +12255,9 @@
     "day": "Thursday",
     "start": "1:00",
     "end": "2:00",
-    "subject": "Advanced Programing Languages (1 hr)",
-    "teacher": "Dr. Javed Ferzund",
-    "room": "C3"
+    "subject": "Advanced Operating System",
+    "teacher": "Dr. Zafar Iqbal Roy",
+    "room": "C5"
   },
   {
     "department": "RCS",
@@ -12295,8 +12295,8 @@
     "day": "Wednesday",
     "start": "1:00",
     "end": "2:00",
-    "subject": "Advanced Operating System",
-    "teacher": "Dr. Zafar Iqbal Roy",
+    "subject": "Advanced Programing Languages (1 hr)",
+    "teacher": "Dr. Javed Ferzund",
     "room": "C4"
   },
   {
